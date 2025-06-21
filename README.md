@@ -4,7 +4,7 @@ NAME:Atchaya vrashini.L Company Name:CODTECH IT SOLUTION My Mentor:neela santhos
 🔍 Project Description
 This project is a simple and effective Weather Forecast Application developed using Python. It fetches real-time weather data using the OpenWeatherMap API and displays weather conditions such as temperature, humidity, and description for a given city.
 
-This project was developed as part of my learning and practice during my internship in Data Science/Full Stack Development. It demonstrates my skills in:
+This project was developed as part of my learning and practice during my internship in Python Programming. It demonstrates my skills in:
 
 Working with APIs and JSON data
 
